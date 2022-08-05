@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "collage-project-for-fees",
+  "private_key_id": "3eda567cd5e05706b5923db95b1c06801b616a36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC02VqovAuwcIrX\nVtY5a37vuNOJpKqYvwIMeIEeW3WkrMKXk4zCyzwgUP6VIdFFzIJm1AZS4c17WFZc\nFX9lrSHBaPS6JlPBoOEzmwyBn5GqsdNKrI0Nl+tQeZSIPRlrSJ9up9LBRA8fxTrJ\nDGkC8+FEM0QTePzeRr5stacsNGW0i1grTD3y8EyLaPUVEUbTiLfKjufIzIIPi61V\nwC7BoKDaEQ4KEh9pUk3Dma/EIpfJ+sHiduNE/F+Kw9jTk8Z9bYO+KFfhgWCNxKXW\n2O3oXvShqvU4Fgboh4ORsDDc6zajBomOpwTUqJzMh1QG1rGUIYW2ebSfVeuu+QQC\nt+5NkoYrAgMBAAECggEAB0fq6PktJUzaoiHKXSRxR1hzF8sL3Ttvay4c0KqQ+XDF\nItIbbCo/gPOR1FI4uS0rINWvbX3OxoT/cRSifOb0AXPmymnJnHWMK4Y2Ai/47tza\n61o4EZCItkQ20SdYkyOo240hJIvHahmILNj1j1tfOd4wgvIviAlkGD9V/Ccd4x9Z\ntT3pnoPWWi4WA0dwMON11Xvbqz86OiqYN9cnG0F2drzMrsslMmFHVIj3TNnUWZjK\nmJUZgxSie0rHK4aqx3usncQNE5YHD/HETwSCn9UaV6x73wWbaEY7OMtspZW2IO18\n9QAq34/6IPdzhPPy84aGjPXnGWplhj7ZoHD33MtWeQKBgQDg3kz+vzPNT0geTHFJ\n3on8N8D11TRzqfj5wvFx7DczleKqeS8xdNOWsmVWE6KJSziH3WEq/1OVdtzkDDf/\nR5zLOkeZN6qmskBF2b6sy0kIst0UvryhXbLMUXkOFlxUDtGNlWH5x8BQfHOihQbh\nyoGimIDe/OvvJmune3tGd9sxWQKBgQDN4u/uMYJLhNq4SFB6q2MVU6vTeb2n5nzh\nz+WwbGAwK3Z8cZzUe8xpXk98Gj6kdEQsNMDpNCHSYWZaetJchFAazp6KZvqDhrvl\nqUpp1K7dQVc2DKKPa4bm/AqPAYO03eLQwA+9gVoKiRI9R9euEu3W2EOihRzn80qr\nVSm0z4kfIwKBgFv+NauGFzAn/g3/Id2hf/vB51vq1CF5aNTszo/XniGpcOhi2U63\nR5R/+PsE31qhfkf+5jCL8erUjLty0DnMVzXA6uegoVy+0ZKB6QKRy5gWbGF/QnYV\nef8iWY7M0QrGYS417bYc5O1IbJoRJ+aZTP1yvE39VJwqsKH830rN38tJAoGAMF3z\nx51R4rPfPhOe9HJ24He7kf6zk1IOXG4eo4eSQT60ox99nF1I9Cf3vEveE3xM16W8\n/AwHNgkzpmXcLWfX+bQ4goMWrvdkBNv0Y1BXlBrZhhUJy2+TTYhAYsAUVNUbh7bW\n+8n7gSYaZtMN1BMWVLaRjQiAde0tyXpERfnLWMkCgYAPEV38WmK6+7Gf2PwJAQ87\nJHeuyUusMBralLTlbiI3Wd48CRLGwFe9AP5j/ofvl/4KOU0LhXkgEHPnrlaFrgiz\n6GksY19QdGHEb1I7p3djjfuMcCEeOb1TKLQAMxaEGwb5g3PljRNwKvE1wUdt51KQ\nak65tVLzOcE0e4J7WYjMVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vwlxc@collage-project-for-fees.iam.gserviceaccount.com",
+  "client_id": "101065919453186466818",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vwlxc%40collage-project-for-fees.iam.gserviceaccount.com"
+}

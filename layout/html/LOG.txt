@@ -1,0 +1,6 @@
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;

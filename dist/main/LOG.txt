@@ -1,0 +1,159 @@
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(2,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(3,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(4,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(5,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(6,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(7,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )
+INSERT INTO New_Student14 VALUES( "yash" , 
+                    "naveen" , 
+                    "2016-2020" , 
+                    "Computer Science Engineering" , 
+                    4646464 , 
+                    "yashrasniya3@gmail.com" , 
+                    1  ) 
+('yash', 'naveen', '2016-2020', 'Computer Science Engineering', 4646464, 'yashrasniya3@gmail.com', 1)
+
+                    UPDATE  ELCT SET  [Email]="yashrsniya@gmail.com"  ,  [Password]="YasH*8938#" WHERE  [id]=1     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=1;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]="12"  ,  [Exam Fee]="432534"  ,  [Enrollment fee]="52345"  ,  [Registration Fee]="3452"  ,  [Security Deposited]="3245"  ,  [Sport Fee]="3245"  ,  [Development Fee]="3245"  ,  [Welfare Fee]="2345" WHERE  [semester]=1     
+                    
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]='432534'  ,  [Enrollment fee]='52345'  ,  [Registration Fee]='3452'  ,  [Security Deposited]='3245'  ,  [Sport Fee]='3245'  ,  [Development Fee]='3245'  ,  [Welfare Fee]='2345' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            1,
+                            datetime('now'),
+                            '4/10/22',
+                            "fdgdfg" , 
+                            "dfsg" , 
+                            "1-Semester" , 
+                            500423 , 
+                             '12' , '432534' , '52345' , '3452' , '3245' , '3245' , '3245' , '2345' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=1;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM ELCT WHERE 
+                                         [id]=1 ;
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            1,
+                            datetime('now'),
+                            '4/10/22',
+                            "fdgdfg" , 
+                            "dfsg" , 
+                            "1-Semester" , 
+                            500423 , 
+                             '12' , '432534' , '52345' , '3452' , '3245' , '3245' , '3245' , '2345' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=1;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM ELCT WHERE 
+                                         [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=1 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+12
+432534
+52345
+3452
+3245
+3245
+3245
+2345

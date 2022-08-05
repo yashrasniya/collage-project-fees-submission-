@@ -1,0 +1,4845 @@
+.LOG
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )table is already existsCREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )table is already existstable [ELCT] already existsINSERT INTO ELCT VALUES(1,"","") CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )table is already existstable [Amount_detail] already existsINSERT INTO Amount_detail VALUES(1,"12","","","","","","","") INSERT INTO Amount_detail VALUES(25,"","","","","","","","") CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )table is already existstable [ELCT] already existsINSERT INTO ELCT VALUES(1,"","") CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )table is already existstable [Amount_detail] already existsINSERT INTO Amount_detail VALUES(1,"12","","","","","","","") INSERT INTO Amount_detail VALUES(25,"","","","","","","","") CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )table is already existstable [New_Student14] already existsINSERT INTO New_Student14 VALUES( "abhi" , 
+                    "nam" , 
+                    "2020-2024" , 
+                    "Computer Science Engineering" , 
+                    34987 , 
+                    "fsadjh" , 
+                    8347  ) ('yash rasniya', 'naveen kumar', '2020-2024', 'Computer Science Engineering', 8938095294, 'yashrasniya3@gmail.com', 1)('ankur sani', 'human', '2020-2024', 'Computer Science Engineering', 49857289, 'sdfakjjasdkl', 20)('harsh', 'papa', '2020-2024', 'Computer Science Engineering', 834927598, 'asdjakf', 30)('archi', 'fredh', '2020-2024', 'Computer Science Engineering', 89, 'archi@gmail.com', 69)('kljgsdk', 'jklj', '2018-2022', 'Computer Science Engineering', 88, 'jk', 99)('yash', 'naveen', '2020-2024', 'Computer Science Engineering', 234, 'd', 2323)('abhi', 'nam', '2020-2024', 'Computer Science Engineering', 34987, 'fsadjh', 8347)SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1000'  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )table is already existstable [ELCT] already existsINSERT INTO ELCT VALUES(1,"","") CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )table is already existstable [Amount_detail] already existsINSERT INTO Amount_detail VALUES(1,"12","","","","","","","") INSERT INTO Amount_detail VALUES(25,"","","","","","","","") CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )table is already existstable [New_Student14] already existsINSERT INTO New_Student14 VALUES( "sdlahh" , 
+                    "jhjk" , 
+                    "2018-2022" , 
+                    "Computer Science Engineering" , 
+                    832974 , 
+                    "jkdsh" , 
+                    876786  ) ('yash rasniya', 'naveen kumar', '2020-2024', 'Computer Science Engineering', 8938095294, 'yashrasniya3@gmail.com', 1)('ankur sani', 'human', '2020-2024', 'Computer Science Engineering', 49857289, 'sdfakjjasdkl', 20)('harsh', 'papa', '2020-2024', 'Computer Science Engineering', 834927598, 'asdjakf', 30)('archi', 'fredh', '2020-2024', 'Computer Science Engineering', 89, 'archi@gmail.com', 69)('kljgsdk', 'jklj', '2018-2022', 'Computer Science Engineering', 88, 'jk', 99)('yash', 'naveen', '2020-2024', 'Computer Science Engineering', 234, 'd', 2323)('abhi', 'nam', '2020-2024', 'Computer Science Engineering', 34987, 'fsadjh', 8347)('sdlahh', 'jhjk', '2018-2022', 'Computer Science Engineering', 832974, 'jkdsh', 876786)CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )table is already existstable [ELCT] already existsINSERT INTO ELCT VALUES(1,"","") CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )table is already existstable [Amount_detail] already existsINSERT INTO Amount_detail VALUES(1,"12","","","","","","","") INSERT INTO Amount_detail VALUES(25,"","","","","","","","") SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )table is already existstable [Fees_Submission111] already existsSELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4-Semester ;INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/16/22',
+                            "sadjfk" , 
+                            "kjklsdja" , 
+                            "4-Semester" , 
+                            222 , 
+                             '1' , '1000' , '2000' , '3000' , '897' , '897' , '899' , '789' , False ) (1, 69, '2022-03-09 08:14:23', '3/9/22', 're', 'tra', '4-Semester', 800, '100', '100', '100', '100', '100', '100', '100', '100', 1)(2, 69, '2022-03-09 08:29:01', '3/9/22', 're', 'tra', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 1)(3, 69, '2022-03-09 10:33:48', '3/9/22', 'lkdsj', 'kasdj', '5-Semester', 6100, '100', '', '1000', '1000', '1000', '1000', '1000', '1000', 0)(4, 69, '2022-03-09 10:43:16', '3/9/22', 'hjg', 'jhj', '5-Semester', 1900, '900', '1000', '', '', '', '', '', '', 0)(5, 69, '2022-03-15 17:09:38', '3/15/22', 'jakfl', 'kjklaj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)(6, 69, '2022-03-15 17:10:31', '3/15/22', 'sadkjfl', 'ksdjak', '3-Semester', 1, '1', '', '', '', '', '', '', '', 0)(7, 69, '2022-03-15 17:10:49', '3/15/22', 'ksdjf', 'dsafk', '3-Semester', 11, '11', '', '', '', '', '', '', '', 0)(8, 69, '2022-03-15 17:30:22', '3/15/22', 'kdjds', 'jkadsj', '7-Semester', 126459, '12', '', '78', '9789', '798', '7897', '97987', '9898', 0)(9, 69, '2022-03-15 17:31:15', '3/15/22', 'kldjfa', 'kjadlj', '7-Semester', 94358, '', '94358', '', '', '', '', '', '', 0)(10, 69, '2022-03-16 16:55:08', '3/16/22', 'hghjg', 'jhghjg', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)(11, 69, '2022-03-16 16:59:58', '3/16/22', 'sadjfk', 'kjklsdja', '4-Semester', 222, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;110002000300089789789978912943587897897987897979879898100010001000100010001000100010001001000invalid literal for int() with base 10: ''100100100010010012invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''invalid literal for int() with base 10: ''CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=4 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='100'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]=''  ,  [Registration Fee]='100'  ,  [Security Deposited]='100'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1'  ,  [Welfare Fee]='100' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/18/22',
+                            "faskldj" , 
+                            "jlkjadlf" , 
+                            "4-Semester" , 
+                            2401 , 
+                             '100' , '1000' , '' , '100' , '100' , '1000' , '1' , '100' , False ) 
+(1, 69, '2022-03-09 08:14:23', '3/9/22', 're', 'tra', '4-Semester', 800, '100', '100', '100', '100', '100', '100', '100', '100', 1)
+(2, 69, '2022-03-09 08:29:01', '3/9/22', 're', 'tra', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 1)
+(3, 69, '2022-03-09 10:33:48', '3/9/22', 'lkdsj', 'kasdj', '5-Semester', 6100, '100', '', '1000', '1000', '1000', '1000', '1000', '1000', 0)
+(4, 69, '2022-03-09 10:43:16', '3/9/22', 'hjg', 'jhj', '5-Semester', 1900, '900', '1000', '', '', '', '', '', '', 0)
+(5, 69, '2022-03-15 17:09:38', '3/15/22', 'jakfl', 'kjklaj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(6, 69, '2022-03-15 17:10:31', '3/15/22', 'sadkjfl', 'ksdjak', '3-Semester', 1, '1', '', '', '', '', '', '', '', 0)
+(7, 69, '2022-03-15 17:10:49', '3/15/22', 'ksdjf', 'dsafk', '3-Semester', 11, '11', '', '', '', '', '', '', '', 0)
+(8, 69, '2022-03-15 17:30:22', '3/15/22', 'kdjds', 'jkadsj', '7-Semester', 126459, '12', '', '78', '9789', '798', '7897', '97987', '9898', 0)
+(9, 69, '2022-03-15 17:31:15', '3/15/22', 'kldjfa', 'kjadlj', '7-Semester', 94358, '', '94358', '', '', '', '', '', '', 0)
+(10, 69, '2022-03-16 16:55:08', '3/16/22', 'hghjg', 'jhghjg', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(11, 69, '2022-03-16 16:59:58', '3/16/22', 'sadjfk', 'kjklsdja', '4-Semester', 222, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(12, 69, '2022-03-18 16:57:10', '3/18/22', 'faskldj', 'jlkjadlf', '4-Semester', 2401, '100', '1000', '', '100', '100', '1000', '1', '100', 0)
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=2 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=2 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=4 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=4 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=4 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=7 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=3 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='3000'  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789' WHERE  [semester]=25     
+                    
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='3000'  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789000000000' WHERE  [semester]=25     
+                    
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+Fill all Entry
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=4 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]='67'  ,  [Enrollment fee]='687'  ,  [Registration Fee]='67'  ,  [Security Deposited]='86'  ,  [Sport Fee]='8687'  ,  [Development Fee]='6678'  ,  [Welfare Fee]='68' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/19/22',
+                            "dffjalk" , 
+                            "kjsdl" , 
+                            "6-Semester" , 
+                            16352 , 
+                             '12' , '67' , '687' , '67' , '86' , '8687' , '6678' , '68' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None" WHERE  [semester]=25     
+                    
+(1, 69, '2022-03-09 08:14:23', '3/9/22', 're', 'tra', '4-Semester', 800, '100', '100', '100', '100', '100', '100', '100', '100', 1)
+(2, 69, '2022-03-09 08:29:01', '3/9/22', 're', 'tra', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 1)
+(3, 69, '2022-03-09 10:33:48', '3/9/22', 'lkdsj', 'kasdj', '5-Semester', 6100, '100', '', '1000', '1000', '1000', '1000', '1000', '1000', 0)
+(4, 69, '2022-03-09 10:43:16', '3/9/22', 'hjg', 'jhj', '5-Semester', 1900, '900', '1000', '', '', '', '', '', '', 0)
+(5, 69, '2022-03-15 17:09:38', '3/15/22', 'jakfl', 'kjklaj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(6, 69, '2022-03-15 17:10:31', '3/15/22', 'sadkjfl', 'ksdjak', '3-Semester', 1, '1', '', '', '', '', '', '', '', 0)
+(7, 69, '2022-03-15 17:10:49', '3/15/22', 'ksdjf', 'dsafk', '3-Semester', 11, '11', '', '', '', '', '', '', '', 0)
+(8, 69, '2022-03-15 17:30:22', '3/15/22', 'kdjds', 'jkadsj', '7-Semester', 126459, '12', '', '78', '9789', '798', '7897', '97987', '9898', 0)
+(9, 69, '2022-03-15 17:31:15', '3/15/22', 'kldjfa', 'kjadlj', '7-Semester', 94358, '', '94358', '', '', '', '', '', '', 0)
+(10, 69, '2022-03-16 16:55:08', '3/16/22', 'hghjg', 'jhghjg', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(11, 69, '2022-03-16 16:59:58', '3/16/22', 'sadjfk', 'kjklsdja', '4-Semester', 222, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(12, 69, '2022-03-18 16:57:10', '3/18/22', 'faskldj', 'jlkjadlf', '4-Semester', 2401, '100', '1000', '', '100', '100', '1000', '1', '100', 0)
+(13, 69, '2022-03-18 18:32:25', '3/19/22', 'sdljf', 'jkljaflk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(14, 69, '2022-03-18 18:33:53', '3/19/22', 'jdshaj', 'jhasjk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(15, 69, '2022-03-18 18:35:28', '3/19/22', 'hjgjhg', 'ghj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(16, 69, '2022-03-18 18:36:59', '3/19/22', 'dffjalk', 'kjsdl', '6-Semester', 16352, '12', '67', '687', '67', '86', '8687', '6678', '68', 0)
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='3000'  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/19/22',
+                            "jkhjh" , 
+                            "jh" , 
+                            "1-Semester" , 
+                            9483 , 
+                             '1' , '1000' , '2000' , '3000' , '897' , '897' , '899' , '789' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None" WHERE  [semester]=25     
+                    
+(1, 69, '2022-03-09 08:14:23', '3/9/22', 're', 'tra', '4-Semester', 800, '100', '100', '100', '100', '100', '100', '100', '100', 1)
+(2, 69, '2022-03-09 08:29:01', '3/9/22', 're', 'tra', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 1)
+(3, 69, '2022-03-09 10:33:48', '3/9/22', 'lkdsj', 'kasdj', '5-Semester', 6100, '100', '', '1000', '1000', '1000', '1000', '1000', '1000', 0)
+(4, 69, '2022-03-09 10:43:16', '3/9/22', 'hjg', 'jhj', '5-Semester', 1900, '900', '1000', '', '', '', '', '', '', 0)
+(5, 69, '2022-03-15 17:09:38', '3/15/22', 'jakfl', 'kjklaj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(6, 69, '2022-03-15 17:10:31', '3/15/22', 'sadkjfl', 'ksdjak', '3-Semester', 1, '1', '', '', '', '', '', '', '', 0)
+(7, 69, '2022-03-15 17:10:49', '3/15/22', 'ksdjf', 'dsafk', '3-Semester', 11, '11', '', '', '', '', '', '', '', 0)
+(8, 69, '2022-03-15 17:30:22', '3/15/22', 'kdjds', 'jkadsj', '7-Semester', 126459, '12', '', '78', '9789', '798', '7897', '97987', '9898', 0)
+(9, 69, '2022-03-15 17:31:15', '3/15/22', 'kldjfa', 'kjadlj', '7-Semester', 94358, '', '94358', '', '', '', '', '', '', 0)
+(10, 69, '2022-03-16 16:55:08', '3/16/22', 'hghjg', 'jhghjg', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(11, 69, '2022-03-16 16:59:58', '3/16/22', 'sadjfk', 'kjklsdja', '4-Semester', 222, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(12, 69, '2022-03-18 16:57:10', '3/18/22', 'faskldj', 'jlkjadlf', '4-Semester', 2401, '100', '1000', '', '100', '100', '1000', '1', '100', 0)
+(13, 69, '2022-03-18 18:32:25', '3/19/22', 'sdljf', 'jkljaflk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(14, 69, '2022-03-18 18:33:53', '3/19/22', 'jdshaj', 'jhasjk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(15, 69, '2022-03-18 18:35:28', '3/19/22', 'hjgjhg', 'ghj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(16, 69, '2022-03-18 18:36:59', '3/19/22', 'dffjalk', 'kjsdl', '6-Semester', 16352, '12', '67', '687', '67', '86', '8687', '6678', '68', 0)
+(17, 69, '2022-03-18 18:39:37', '3/19/22', 'jkhjh', 'jh', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+Fill all Entry
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=2 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=2 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=3 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]='9583409'  ,  [Enrollment fee]='99'  ,  [Registration Fee]='999999'  ,  [Security Deposited]='9898'  ,  [Sport Fee]='99898'  ,  [Development Fee]='9898'  ,  [Welfare Fee]='8989' WHERE  [semester]=25     
+                    
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='3000'  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789' WHERE  [semester]=25     
+                    
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=1 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='3000'  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/19/22',
+                            "76576" , 
+                            "fjh" , 
+                            "1-Semester" , 
+                            9483 , 
+                             '1' , '1000' , '2000' , '3000' , '897' , '897' , '899' , '789' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+(1, 69, '2022-03-09 08:14:23', '3/9/22', 're', 'tra', '4-Semester', 800, '100', '100', '100', '100', '100', '100', '100', '100', 1)
+(2, 69, '2022-03-09 08:29:01', '3/9/22', 're', 'tra', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 1)
+(3, 69, '2022-03-09 10:33:48', '3/9/22', 'lkdsj', 'kasdj', '5-Semester', 6100, '100', '', '1000', '1000', '1000', '1000', '1000', '1000', 0)
+(4, 69, '2022-03-09 10:43:16', '3/9/22', 'hjg', 'jhj', '5-Semester', 1900, '900', '1000', '', '', '', '', '', '', 0)
+(5, 69, '2022-03-15 17:09:38', '3/15/22', 'jakfl', 'kjklaj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(6, 69, '2022-03-15 17:10:31', '3/15/22', 'sadkjfl', 'ksdjak', '3-Semester', 1, '1', '', '', '', '', '', '', '', 0)
+(7, 69, '2022-03-15 17:10:49', '3/15/22', 'ksdjf', 'dsafk', '3-Semester', 11, '11', '', '', '', '', '', '', '', 0)
+(8, 69, '2022-03-15 17:30:22', '3/15/22', 'kdjds', 'jkadsj', '7-Semester', 126459, '12', '', '78', '9789', '798', '7897', '97987', '9898', 0)
+(9, 69, '2022-03-15 17:31:15', '3/15/22', 'kldjfa', 'kjadlj', '7-Semester', 94358, '', '94358', '', '', '', '', '', '', 0)
+(10, 69, '2022-03-16 16:55:08', '3/16/22', 'hghjg', 'jhghjg', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(11, 69, '2022-03-16 16:59:58', '3/16/22', 'sadjfk', 'kjklsdja', '4-Semester', 222, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(12, 69, '2022-03-18 16:57:10', '3/18/22', 'faskldj', 'jlkjadlf', '4-Semester', 2401, '100', '1000', '', '100', '100', '1000', '1', '100', 0)
+(13, 69, '2022-03-18 18:32:25', '3/19/22', 'sdljf', 'jkljaflk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(14, 69, '2022-03-18 18:33:53', '3/19/22', 'jdshaj', 'jhasjk', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(15, 69, '2022-03-18 18:35:28', '3/19/22', 'hjgjhg', 'ghj', '4-Semester', 2500, '100', '1000', '', '100', '100', '1000', '100', '100', 0)
+(16, 69, '2022-03-18 18:36:59', '3/19/22', 'dffjalk', 'kjsdl', '6-Semester', 16352, '12', '67', '687', '67', '86', '8687', '6678', '68', 0)
+(17, 69, '2022-03-18 18:39:37', '3/19/22', 'jkhjh', 'jh', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+(18, 69, '2022-03-19 17:29:48', '3/19/22', '76576', 'fjh', '1-Semester', 9483, '1', '1000', '2000', '3000', '897', '897', '899', '789', 0)
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name],[Mobile Number] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE  [Mobile Number]=89  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name],[Batch] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE  [Batch]="2020-2024"  AND  [Branch]="Computer Science Engineering"  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=1 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=30 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=2323 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=20 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=8347 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=14 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+1
+1000
+2000
+3000
+897
+897
+899
+789
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=876786 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=20 
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=876786 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=30 
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=2323 
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1
+1000
+2000
+3000
+897
+897
+899
+789
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=S ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=8 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=2 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+fill amount
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=3 ;
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=2323 
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1000'  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/30/22',
+                            ";jkjsdkl" , 
+                            "kjdsklfj" , 
+                            "5-Semester" , 
+                            8000 , 
+                             '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1000'  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/30/22',
+                            "dkafjl" , 
+                            "kjaslk" , 
+                            "5-Semester" , 
+                            8000 , 
+                             '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]=''  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/30/22',
+                            "skadf" , 
+                            "ksdjfa" , 
+                            "5-Semester" , 
+                            7000 , 
+                             '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '' , '1000' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]=''  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '3/30/22',
+                            "hjgjhg" , 
+                            "hghjj" , 
+                            "5-Semester" , 
+                            7000 , 
+                             '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '' , '1000' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )
+table is already exists
+table [New_Student14] already exists
+INSERT INTO New_Student14 VALUES( "shobhitabc" , 
+                    "xyz" , 
+                    "2019-2023" , 
+                    "Computer Science Engineering" , 
+                    123 , 
+                    "shobhit.nautiyal99@gmail" , 
+                    123456  ) 
+('yash rasniya', 'naveen kumar', '2020-2024', 'Computer Science Engineering', 8938095294, 'yashrasniya3@gmail.com', 1)
+('happy', 'noway', '2016-2020', 'Computer Science Engineering', 8899, 'happy@gmail.com', 14)
+('ankur sani', 'human', '2020-2024', 'Computer Science Engineering', 49857289, 'sdfakjjasdkl', 20)
+('harsh', 'papa', '2020-2024', 'Computer Science Engineering', 834927598, 'asdjakf', 30)
+('archi', 'fredh', '2020-2024', 'Computer Science Engineering', 89, 'archi@gmail.com', 69)
+('kljgsdk', 'jklj', '2018-2022', 'Computer Science Engineering', 88, 'jk', 99)
+('yash', 'naveen', '2020-2024', 'Computer Science Engineering', 234, 'd', 2323)
+('abhi', 'nam', '2020-2024', 'Computer Science Engineering', 34987, 'fsadjh', 8347)
+('shobhitabc', 'xyz', '2019-2023', 'Computer Science Engineering', 123, 'shobhit.nautiyal99@gmail', 123456)
+('sdlahh', 'jhjk', '2018-2022', 'Computer Science Engineering', 832974, 'jkdsh', 876786)
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=123456;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]=''  ,  [Enrollment fee]=''  ,  [Registration Fee]=''  ,  [Security Deposited]=''  ,  [Sport Fee]=''  ,  [Development Fee]=''  ,  [Welfare Fee]='' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            123456,
+                            datetime('now'),
+                            '4/4/22',
+                            "343543" , 
+                            "6556356-7675" , 
+                            "6-Semester" , 
+                            12 , 
+                             '12' , '' , '' , '' , '' , '' , '' , '' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=123456;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1000'  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT,
+            [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            123456,
+                            datetime('now'),
+                            '4/4/22',
+                            "jdsf" , 
+                            "jksdk" , 
+                            "5-Semester" , 
+                            8000 , 
+                             '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , '1000' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=123456;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=3 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]=''  ,  [Enrollment fee]=''  ,  [Registration Fee]=''  ,  [Security Deposited]=''  ,  [Sport Fee]=''  ,  [Development Fee]=''  ,  [Welfare Fee]='' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '4/4/22',
+                            "dsfasd" , 
+                            "sdafasd" , 
+                            "6-Semester" , 
+                            12 , 
+                             '12' , '' , '' , '' , '' , '' , '' , '' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=123456 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name],[Date] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE [Date] BETWEEN "4/4/22" AND "4/4/22";
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=123456 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+
+                    UPDATE  New_Student14 SET  [Name]="shobhitabc"  ,  [Father Name]="xyz"  ,  [Batch]="Select an Option"  ,  [Branch]="Select an Option"  ,  [Mobile Number]=123  ,  [Email ID]="shobhit.nautiyal99@gmail.com" WHERE New_Student14.[Roll Number]=123456    
+                    
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=123456 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=5 ;
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=123456;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='3'  ,  [Exam Fee]=''  ,  [Enrollment fee]=''  ,  [Registration Fee]=''  ,  [Security Deposited]=''  ,  [Sport Fee]=''  ,  [Development Fee]=''  ,  [Welfare Fee]='' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            123456,
+                            datetime('now'),
+                            '4/4/22',
+                            "hghj" , 
+                            "jhagd" , 
+                            "6-Semester" , 
+                            3 , 
+                             '3' , '' , '' , '' , '' , '' , '' , '' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=123456;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]="12"  ,  [Exam Fee]="55"  ,  [Enrollment fee]="456"  ,  [Registration Fee]="131"  ,  [Security Deposited]="464"  ,  [Sport Fee]="546"  ,  [Development Fee]="564"  ,  [Welfare Fee]="22"  ,  [Amount]="" WHERE  [semester]=6     
+                    
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]="12"  ,  [Exam Fee]="464"  ,  [Enrollment fee]="64"  ,  [Registration Fee]="6464"  ,  [Security Deposited]="44"  ,  [Sport Fee]="55"  ,  [Development Fee]="656"  ,  [Welfare Fee]="564" WHERE  [semester]=6     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [Semester]=6 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='12'  ,  [Exam Fee]='464'  ,  [Enrollment fee]='64'  ,  [Registration Fee]=''  ,  [Security Deposited]='44'  ,  [Sport Fee]='55'  ,  [Development Fee]='656'  ,  [Welfare Fee]='564' WHERE  [semester]=25     
+                    
+Fill all Entry
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            69,
+                            datetime('now'),
+                            '4/5/22',
+                            "4646" , 
+                            "46464" , 
+                            "6-Semester" , 
+                            1859 , 
+                             '12' , '464' , '64' , '' , '44' , '55' , '656' , '564' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                    New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                     [semester]=6 ;
+SELECT * FROM ELCT WHERE 
+                                     [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )
+table is already exists
+table [New_Student14] already exists
+INSERT INTO New_Student14 VALUES( "ankit" , 
+                    "lala" , 
+                    "2020-2024" , 
+                    "Computer Science Engineering" , 
+                    123456 , 
+                    "yashrasniya3@gmail.com" , 
+                    12  ) 
+('yash rasniya', 'naveen kumar', '2020-2024', 'Computer Science Engineering', 8938095294, 'yashrasniya3@gmail.com', 1)
+('ankit', 'lala', '2020-2024', 'Computer Science Engineering', 123456, 'yashrasniya3@gmail.com', 12)
+('happy', 'noway', '2016-2020', 'Computer Science Engineering', 8899, 'happy@gmail.com', 14)
+('ankur sani', 'human', '2020-2024', 'Computer Science Engineering', 49857289, 'sdfakjjasdkl', 20)
+('harsh', 'papa', '2020-2024', 'Computer Science Engineering', 834927598, 'asdjakf', 30)
+('archi', 'fredh', '2020-2024', 'Computer Science Engineering', 89, 'archi@gmail.com', 69)
+('kljgsdk', 'jklj', '2018-2022', 'Computer Science Engineering', 88, 'jk', 99)
+('yash', 'naveen', '2020-2024', 'Computer Science Engineering', 234, 'd', 2323)
+('abhi', 'nam', '2020-2024', 'Computer Science Engineering', 34987, 'fsadjh', 8347)
+('shobhitabc', 'xyz', 'Select an Option', 'Select an Option', 123, 'shobhit.nautiyal99@gmail.com', 123456)
+('sdlahh', 'jhjk', '2018-2022', 'Computer Science Engineering', 832974, 'jkdsh', 876786)
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=12;
+fill amount
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=1 ;
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]=''  ,  [Enrollment fee]=''  ,  [Registration Fee]=''  ,  [Security Deposited]='897'  ,  [Sport Fee]='897'  ,  [Development Fee]='899'  ,  [Welfare Fee]='789' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            12,
+                            datetime('now'),
+                            '4/5/22',
+                            "13131" , 
+                            "121" , 
+                            "1-Semester" , 
+                            3483 , 
+                             '1' , '' , '' , '' , '897' , '897' , '899' , '789' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=12;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM ELCT WHERE 
+                                         [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=12 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=1 ;
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]=''  ,  [Security Deposited]=''  ,  [Sport Fee]=''  ,  [Development Fee]=''  ,  [Welfare Fee]='' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            12,
+                            datetime('now'),
+                            '4/5/22',
+                            "4646" , 
+                            "64646" , 
+                            "1-Semester" , 
+                            3001 , 
+                             '1' , '1000' , '2000' , '' , '' , '' , '' , '' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=12;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM ELCT WHERE 
+                                         [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=1 ;
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+invalid literal for int() with base 10: ''
+callback at amount box!
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]=''  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='2000'  ,  [Registration Fee]='300'  ,  [Security Deposited]=''  ,  [Sport Fee]=''  ,  [Development Fee]=''  ,  [Welfare Fee]='' WHERE  [semester]=25     
+                    
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=69;
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=69;
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=5 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='1000'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]='1000'  ,  [Registration Fee]='1000'  ,  [Security Deposited]='1000'  ,  [Sport Fee]='1000'  ,  [Development Fee]='1000'  ,  [Welfare Fee]='1000' WHERE  [semester]=25     
+                    
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=5 ;
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=6 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=7 ;
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1
+1000
+2000
+3000
+897
+897
+899
+789
+12
+464
+64
+6464
+44
+55
+656
+564
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=876786 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=99 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=1 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=14 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=8347 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=12 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name],[Batch] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE  [Batch]="2020-2024"  AND  [Branch]="Computer Science Engineering"  
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [New_Student14] (Name TEXT NOT NULL , 
+            [Father Name] TEXT NOT NULL , 
+            Batch TEXT NOT NULL ,
+            Branch TEXT NOT NULL ,
+            [Mobile Number] INTEGER NOT NULL ,
+            [Email ID] TEXT NOT NULL ,
+            [Roll Number] INTEGER NOT NULL PRIMARY KEY
+            )
+table is already exists
+table [New_Student14] already exists
+INSERT INTO New_Student14 VALUES( "Aayush sharma" , 
+                    "Arun dev sharma" , 
+                    "2020-2024" , 
+                    "Computer Science Engineering" , 
+                    8979983821 , 
+                    "aayushKsp20@gmail.com" , 
+                    201340101001  ) 
+('yash rasniya', 'naveen kumar', '2020-2024', 'Computer Science Engineering', 8938095294, 'yashrasniya3@gmail.com', 1)
+('ankit', 'lala', '2020-2024', 'Computer Science Engineering', 123456, 'yashrasniya3@gmail.com', 12)
+('happy', 'noway', '2016-2020', 'Computer Science Engineering', 8899, 'happy@gmail.com', 14)
+('ankur sani', 'human', '2020-2024', 'Computer Science Engineering', 49857289, 'sdfakjjasdkl', 20)
+('harsh', 'papa', '2020-2024', 'Computer Science Engineering', 834927598, 'asdjakf', 30)
+('archi', 'fredh', '2020-2024', 'Computer Science Engineering', 89, 'archi@gmail.com', 69)
+('kljgsdk', 'jklj', '2018-2022', 'Computer Science Engineering', 88, 'jk', 99)
+('yash', 'naveen', '2020-2024', 'Computer Science Engineering', 234, 'd', 2323)
+('abhi', 'nam', '2020-2024', 'Computer Science Engineering', 34987, 'fsadjh', 8347)
+('shobhitabc', 'xyz', 'Select an Option', 'Select an Option', 123, 'shobhit.nautiyal99@gmail.com', 123456)
+('sdlahh', 'jhjk', '2018-2022', 'Computer Science Engineering', 832974, 'jkdsh', 876786)
+('Aayush sharma', 'Arun dev sharma', '2020-2024', 'Computer Science Engineering', 8979983821, 'aayushKsp20@gmail.com', 201340101001)
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=201340101001;
+SELECT * FROM Amount_detail WHERE 
+                                         [Semester]=4 ;
+
+                    UPDATE  Amount_detail SET  [Tuition Fee]='100'  ,  [Exam Fee]='1000'  ,  [Enrollment fee]=''  ,  [Registration Fee]='100'  ,  [Security Deposited]='100'  ,  [Sport Fee]='1000'  ,  [Development Fee]='100'  ,  [Welfare Fee]='100' WHERE  [semester]=25     
+                    
+CREATE TABLE [Fees_Submission111] (
+    ID INTEGER  PRIMARY KEY ,
+    [Roll Number] INTEGER ,
+    Date_real TEXT,
+    Date TEXT,
+    [Receipt Number] TEXT,
+    [Transaction Number] TEXT,
+    Semester TEXT,
+    Amount INTEGER,
+    [Tuition Fee] TEXT,
+    [Exam Fee] TEXT,
+    [Enrollment fee] TEXT,
+    [Registration Fee] TEXT,
+    [Security Deposited] TEXT,
+    [Sport Fee] TEXT,
+    [Development Fee] TEXT,
+    [Welfare Fee] TEXT,
+    [Dues] BLOB
+    )
+table is already exists
+table [Fees_Submission111] already exists
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=25 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=4-Semester ;
+INSERT INTO Fees_Submission111 VALUES( NULL , 
+                            201340101001,
+                            datetime('now'),
+                            '4/15/22',
+                            "576869" , 
+                            "3435647" , 
+                            "4-Semester" , 
+                            2500 , 
+                             '100' , '1000' , '' , '100' , '100' , '1000' , '100' , '100' , False ) 
+
+                    UPDATE  Fees_Submission111 SET  [Tuition Fee]="None"  ,  [Exam Fee]="None"  ,  [Enrollment fee]="None"  ,  [Registration Fee]="None"  ,  [Security Deposited]="None"  ,  [Sport Fee]="None"  ,  [Development Fee]="None"  ,  [Welfare Fee]="None"  ,  [Amount]="None" WHERE  [semester]=25     
+                    
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=201340101001;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=4 ;
+SELECT * FROM ELCT WHERE 
+                                         [id]=1 ;
+(1, 'yashrsniya@gmail.com', 'YasH*8938#')
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=30 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=69 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=1 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=4 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=3 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=5 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=7 ;
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=6 ;
+1
+1000
+2000
+3000
+897
+897
+899
+789
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+12
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+
+invalid literal for int() with base 10: ''
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+12
+94358
+78
+9789
+798
+7897
+97987
+9898
+12
+464
+64
+6464
+44
+55
+656
+564
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=201340101001 
+                        
+SELECT * FROM Amount_detail WHERE 
+                                         [semester]=4 ;
+100
+1000
+
+invalid literal for int() with base 10: ''
+100
+100
+1000
+100
+100
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+SELECT * FROM New_Student14 WHERE 
+                                        New_Student14.[Roll Number]=1;
+
+                        SELECT [Name],[New_Student14].[Roll Number],[Father Name] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=1 
+                        
+
+                        SELECT [Name] , [Father Name] , [Batch] , [Branch] , [Mobile Number] , [Email ID] , [New_Student14].[Roll Number][Date] , [Receipt Number] , [Transaction Number] , Semester , Amount , [Tuition Fee] ,  [Exam Fee] ,  [Enrollment fee]  ,  [Registration Fee]  ,  [Security Deposited] ,  [Sport Fee]  ,  [Development Fee]  ,  [Welfare Fee]  , [Dues] FROM [New_Student14] LEFT JOIN [Fees_Submission111] 
+                        ON [New_Student14].[Roll Number]=Fees_Submission111.[Roll Number]  WHERE New_Student14.[Roll Number]=1 
+                        
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
+CREATE TABLE [ELCT] (
+    id INTEGER NOT NULL PRIMARY KEY ,
+    Email TEXT,
+    Password TEXT
+    )
+table is already exists
+table [ELCT] already exists
+INSERT INTO ELCT VALUES(1,"","") 
+CREATE TABLE [Amount_detail] (
+        semester INTEGER NOT NULL  PRIMARY KEY ,
+            [Tuition Fee] TEXT,
+            [Exam Fee] TEXT,
+            [Enrollment fee] TEXT,
+            [Registration Fee] TEXT,
+            [Security Deposited] TEXT,
+            [Sport Fee] TEXT,
+            [Development Fee] TEXT,
+            [Welfare Fee] TEXT
+        )
+table is already exists
+table [Amount_detail] already exists
+INSERT INTO Amount_detail VALUES(1,"12","","","","","","","") 
+INSERT INTO Amount_detail VALUES(25,"","","","","","","","") 
